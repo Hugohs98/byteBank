@@ -5,22 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61a1b3d7-5b6f-4ece-883f-1c6953b9bf16" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/byteBank.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bytebank-composto/bytebank-composto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bytebank-composto/src/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bytebank-composto/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bytebank-composto/src/cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bytebank-composto/src/testaBanco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytebank/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytebank/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytebank/criaConta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bytebank/testaMetodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bytebank-composto/src/testeSacaValoresNegativos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bytebank-encapsulado/bytebank-encapsulado.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bytebank-encapsulado/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bytebank-encapsulado/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bytebank-encapsulado/src/cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-composto/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-composto/src/Conta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +44,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "D:/java/java_ads/byteBank"
+    "last_opened_file_path": "D:/java/java_ads/byteBank/bytebank-encapsulado/src"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\java_ads\byteBank\bytebank-encapsulado\src" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
